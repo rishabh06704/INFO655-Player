@@ -2,7 +2,7 @@
   "name": "info655-rp946-assignment2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rishabh06704.github.io/info655-Music-Player",
+  "homepage": "https://rishabh06704.github.io/info655-rp946-assignment2",
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
